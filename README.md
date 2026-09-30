@@ -28,9 +28,7 @@ Para trabalhar na equipa, só precisas de entender estes 4 conceitos do dia a di
 
 Sempre que fores programar uma nova funcionalidade ou corrigir algo, segue esta sequência de passos no teu computador:
 
-[1. Pega na Tarefa] ──> [2. Cria a tua Branch] ──> [3. Programa e faz Commit]
-                                                                │
-[6. Código na Main!] <── [5. Revisa e faz Merge] <── [4. Abre um Pull Request]
+[1. Pega na Tarefa] ──> [2. Cria a tua Branch] ──> [3. Programa e faz Commit] ──> [4. Abre um Pull Request] ──> [5. Revisa e faz Merge] ──> [6. Código na Main!]
 
 ### Passo 1: Escolhe a tua tarefa
 * Acede à aba **Projects** no nosso GitHub.
